@@ -14,3 +14,4 @@ You can click the Preview link to take a look at your changes.
 --->
 # Projects:
 https://github.com/Champion2005/Genshin-Paint
+More coming soon!
