@@ -13,5 +13,5 @@ Champion2005/Champion2005 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 # Projects:
-https://github.com/Champion2005/Genshin-Paint
-\nMore coming soon!
+- https://github.com/Champion2005/Genshin-Paint
+More coming soon!
