@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @Champion2005
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: Champion#5184
+- 📫 How to reach me: Champion#6969
 
 # About me 
 - I started programming in 2018, when I was 13. Over the years, I've explored many different technologies and languages, which are: python; HTML/CSS/JS; C++; Lua/Roblox; and C#/Unity. 
