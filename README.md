@@ -11,4 +11,7 @@ CS @ UWindsor
 - [Remora](https://github.com/Champion2005/Remora)
 - [EcoWatch](https://github.com/jwlebert/EcoWatch)
 
+[comment]: <![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Champion2005&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=10)>
+
+
 <sub><sup>Working on big things 👀</sup></sub>
