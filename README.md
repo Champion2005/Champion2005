@@ -6,7 +6,7 @@ CS @ UWindsor
 [Resume](https://apatel.xyz/Aditya_Patel_resume.pdf)
 
 ## Notable Projects
-- [Datarai.com](https://github.com/Champion2005/Datarai)
+- [Datarai.com](https://github.com/datarai-org)
 - [Chop Chop!](https://github.com/Kataray/Winhacks2025)
 - [Orrery, Or Are We?](https://github.com/jwlebert/spaceapps-2024)
 - [Remora](https://github.com/Champion2005/Remora)
