@@ -3,7 +3,7 @@
 ## About Me
 CS @ UWindsor
 
-[Resume](https://github.com/Champion2005/Champion2005/blob/main/resume.pdf)
+[Resume](https://apatel.xyz/Aditya_Patel_resume.pdf)
 
 ## Notable Projects
 - [Datarai.com](https://github.com/Champion2005/Datarai)
@@ -12,7 +12,7 @@ CS @ UWindsor
 - [Remora](https://github.com/Champion2005/Remora)
 - [EcoWatch](https://github.com/jwlebert/EcoWatch)
 
-<![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Champion2005&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=10)>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Champion2005&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=10)
 
 
 <sub><sup>Working on big things 👀</sup></sub>
